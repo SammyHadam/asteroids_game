@@ -1,0 +1,5 @@
+venv/
+asteroids_py_files/__pycache__/
+*.pyc
+env/
+.vscode/
